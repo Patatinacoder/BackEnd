@@ -1,0 +1,94 @@
+{
+    "products":[
+    
+    {
+        "id": 1,
+    "name": "botas" ,
+    "price": 15000,
+    "stock":"34",
+    "image":"no image",
+    "code": "aaaddd"
+
+},
+
+
+{
+    "name": "zapatillas",
+    "price":35000,
+    "stock": 54,
+    "image": "no image",
+    "id":2
+
+},
+
+{
+    "name": "sandalias",
+    "price": 13000,
+    "stock":123,
+    "image":"no image",
+    "id":3
+
+},
+
+{
+    "name": "botas de agua",
+    "price": 33000,
+    "stock":144,
+    "image":"no image",
+    "id":4
+
+},
+
+{
+    "name": "tacones",
+    "price": 45000,
+    "stock":33,
+    "image":"no image",
+    "id": 5
+
+},
+
+{
+    "name": "zapato casual",
+    "price": 64000,
+    "stock": 122,
+    "image":"no image",
+    "id":6
+
+},
+
+{
+    "name": "bota de cuero",
+    "price":103000,
+    "stock":99,
+    "image":"no image",
+    "id":7
+
+},
+
+{
+    "name": "zapatilla hombre",
+    "price":33990,
+    "stock":123,
+    "image":"no image",
+    "id":8
+},
+
+{
+    "name": "sandalia hombre",
+    "price": 9990,
+    "stock":223,
+    "image":"no image",
+    "id":9
+
+},
+
+{
+    "name": "botas cortas cuero",
+    "price":54000,
+    "stock":344,
+    "image":"no image",
+    "id":10
+
+}]
+}
